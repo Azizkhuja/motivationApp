@@ -5,9 +5,11 @@ import "./App.css";
 class App extends React.Component {
   state = { advice: "" };
 
+  // After loaded page(the same time) immediately component will run and get response
   componentDidMount() {
     this.fetchAdvice();
   }
+  // Fetching data from axios
   fetchAdvice = () => {
     axios
       .get("https://api.adviceslip.com/advice")
