@@ -9,3 +9,4 @@ Once you are reached website you can see quotes about life and by clicking the b
 # In this project I have used react.js and axios
 
 ### Tech Stacks
+`React.js` `Axios`
