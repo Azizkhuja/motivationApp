@@ -3,8 +3,8 @@
 
 ![Screenshot](image.png)
 
-Unlock your full potential with our motivational web app and achieve your goals one step at a time
-Once you are reached website you can see quotes about life and by clicking the button(Give my advice) you can get new quotes
+Unlock your full potential with our motivational web app and achieve your goals one step at a time.
+Upon reaching the website, one can peruse various quotes pertaining to life. By selecting the "Give my advice" button, the user may procure additional quotes.
 
 ### Tech Stacks
 `React.js` `Axios`
